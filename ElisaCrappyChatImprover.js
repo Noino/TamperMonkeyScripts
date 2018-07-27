@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         ElisaCrappyChatImprover
 // @namespace    https://github.com/Noino/TamperMonkeyScripts
-// @version      1.1
+// @version      1.2
 // @description  Try to make ElisaChat usable
 // @author       Noino
 // @match        https://cprx40.mob3.elisa.fi/xpad/
+// @match        https://ring.mob3.elisa.fi/xpad/
 // @grant        none
 // ==/UserScript==
 
